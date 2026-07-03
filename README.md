@@ -1,49 +1,49 @@
-<!-- ===================================================== -->
-<!-- Hero -->
-<!-- ===================================================== -->
+<p align="center">
+  <img src="./assets/banner/banner.png" alt="Krish Garg Banner" width="100%">
+</p>
 
 # Building ideas into software.
 
-> Every project begins with a question.
+### Every project begins with a question.
+
+<br>
+
+I'm **Krish Garg**, a third-year Computer Science student from India.
+
+I enjoy exploring ideas through software—building everything from AI-powered applications and enterprise systems to developer tools, automation, and experimental side projects.
+
+Every repository here represents a problem I found interesting enough to solve.
+
+<br>
+
+</div>
 
 ---
 
-## 👋 Hi, I'm Krish.
+## What I'm working on
 
-I'm a third-year Computer Science student who enjoys turning ideas into software.
-
-Some ideas begin as university projects.
-Some start as late-night experiments.
-A few grow into products that solve real-world problems.
-
-This GitHub is where I document that journey.
+Coming Soon
 
 ---
 
-## 🚧 Currently Building
+## Questions I'm exploring
 
-Coming soon...
-
----
-
-## 💡 Questions I'm Exploring
-
-Coming soon...
+Coming Soon
 
 ---
 
-## 🛠 Toolbox
+## Toolbox
 
-Coming soon...
-
----
-
-## 📚 Beyond Code
-
-Coming soon...
+Coming Soon
 
 ---
 
-## 🤝 Let's Connect
+## Beyond code
 
-Coming soon...
+Coming Soon
+
+---
+
+## Let's build something
+
+Coming Soon
