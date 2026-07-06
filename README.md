@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="www.linkedin.com/in/krish-garg-171205d">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:krishtgarg@gmail.com">Email</a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ I like building across different domains—from enterprise software and AI-power
 
 | Question | Project |
 |----------|---------|
-| What if inventory software could be simpler for electronics businesses? | **Elite ERP** |
+| What if inventory software could be simpler for electronics businesses? | **Elite OS** |
 | What if discovering B2B customers could be mostly automated? | **Lead Intelligence Platform** |
 | What if AI could identify manipulated media? | **Deepfake Detection** |
 | What if software could make parking smarter? | **Smart Parking System** |
@@ -112,9 +112,9 @@ When I'm not coding, you'll probably find me:
 
 I'm always happy to connect with people interested in software engineering, AI, startups, and building useful products.
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** krishtgarg@gmail.com
 
-💼 **LinkedIn:** YOUR_LINKEDIN
+💼 **LinkedIn:** www.linkedin.com/in/krish-garg-171205d
 
 🌐 **Portfolio:** Coming Soon
 
